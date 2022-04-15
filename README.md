@@ -18,40 +18,40 @@
 ## 工程结构
 
    |--backend -----------------------------后端<br>
-      --.idea<br>
-      --.vscode<br>
-      --APP -----------------------------接口<br>
-      --data -----------------------------数据样本<br> 
-      --server<br>
-      --templates<br>
-      --__init__.py -----------------------------兼容Mysql<br>
-      --接口说明.md<br>
-      --数据库测试.py<br>
-      --db.sqlite3<br>
-      --manage.py -----------------------------Django项目管理<br>
+        --.idea<br>
+        --.vscode<br>
+        --APP -----------------------------接口<br>
+        --data -----------------------------数据样本<br> 
+        --server<br>
+        --templates<br>
+        --__init__.py -----------------------------兼容Mysql<br>
+        --接口说明.md<br>
+        --数据库测试.py<br>
+        --db.sqlite3<br>
+        --manage.py -----------------------------Django项目管理<br>
    |--docs <br>
-      --image -----------------------------UI图<br>
-      --数据库设计文档<br>
-      --设计<br>
+        --image -----------------------------UI图<br>
+        --数据库设计文档<br>
+        --设计<br>
    |--frontend -----------------------------前端<br>
-      --app<br> 
-      --build<br>
-      --node_modules<br>
-      --public<br>
-      --src<br>
-        --pages -----------------------------页面组件<br>
-          --Applayout.jsx -----------------------------框架组件<br>
-          --Community.jsx -----------------------------社区组件<br>
-          --Firstpagenew.jsx -----------------------------首页组件<br>
-          --Information.jsx -----------------------------信息组件<br>
-          --Path.jsx -----------------------------路劲组件<br>
-          --Selfinfo.jsx -----------------------------个人信息组件<br>
-        --routers -----------------------------路由<br>
-      --gitignore<br>
-      --package-lock.json<br>
-      --package.json<br>
-      --yarn-earn.log<br>
-      --yarn.lock<br>
+        --app<br> 
+        --build<br>
+        --node_modules<br>
+        --public<br>
+        --src<br>
+           --pages -----------------------------页面组件<br>
+           --Applayout.jsx -----------------------------框架组件<br>
+           --Community.jsx -----------------------------社区组件<br>
+           --Firstpagenew.jsx -----------------------------首页组件<br>
+           --Information.jsx -----------------------------信息组件<br>
+           --Path.jsx -----------------------------路劲组件<br>
+           --Selfinfo.jsx -----------------------------个人信息组件<br>
+         --routers -----------------------------路由<br>
+       --gitignore<br>
+       --package-lock.json<br>
+       --package.json<br>
+       --yarn-earn.log<br>
+       --yarn.lock<br>
    |--README.md<br>
       
 
