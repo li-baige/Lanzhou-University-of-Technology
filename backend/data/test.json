@@ -1,0 +1,37 @@
+{ "data":[{
+    "Community_name":"曦华源",
+    "name": [{"name":"张某屏"},
+    {"name":"李某"},
+    {"name":"王某"}]
+    },
+    {
+    "Community_name":"小西湖",
+    "name": [{"name":"张某"},
+    {"name":"李某"},
+    {"name":"王某"}]
+    },
+    {
+    "Community_name":"兰州理工大学",
+    "name": [{"name":"张某"},
+    {"name":"李某"}]
+    },
+    {
+    "Community_name":"兰州中心",
+    "name": [{"name":"张某"},
+    {"name":"李某"},
+    {"name":"李某"},
+    {"name":"李某"},
+    {"name":"李某"},
+    {"name":"王某"}]
+    }
+    ,{
+    "Community_name":"胜利家园",
+    "name":[{"name":"张某"},
+    {"name":"李某"},
+    {"name":"王某"}]
+    }
+    
+    
+    
+    ]
+  }
